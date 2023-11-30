@@ -9,5 +9,11 @@ Jupiter
  - Io
  - Europa
 Saturn
- -Titan
+- Titan
 Uranus
+- Miranda
+- Ariel
+- Umbriel
+- Titania
+- Oberon
+
